@@ -37,13 +37,10 @@ export default async function Login() {
             <h3>Welcome</h3>
             <Image  src="/assets/icons/hand.png" alt='hand' width={30} height={30} />
           </div>
-
           <p>Please log in here</p>
-
           <LoginForm />
         </div>
       </div>
-
     </section>
   )
 }
